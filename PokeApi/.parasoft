@@ -1,0 +1,34 @@
+#Fri May 22 15:41:24 CLT 2026
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/datasources=ds_-1249774591_1779215885618_1348585154\nds_-1249774591_1779223873118_1105600936
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779215885618_1348585154.Database=pokeapi
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779215885618_1348585154.Host=localhost
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779215885618_1348585154.Port=3306
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779215885618_1348585154.driverName=MySQL
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779215885618_1348585154.first_row=0
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779215885618_1348585154.first_row.internal=1
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779215885618_1348585154.last_row=0
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779215885618_1348585154.last_row.internal=1
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779215885618_1348585154.name=TechnologyDesafio
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779215885618_1348585154.password=AVHdWQ61fb23k6Gd9hR+ZLX8y7QcxfqEoSjGyuclYCA\=
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779215885618_1348585154.query=SELECT PokemonName, ExpectedType\r\nFROM pokemon;
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779215885618_1348585154.type=Database
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779215885618_1348585154.use_all_rows=true
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779215885618_1348585154.user=root
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779223873118_1105600936.closeconn=true
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779223873118_1105600936.first_row=0
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779223873118_1105600936.first_row.internal=1
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779223873118_1105600936.last_row=0
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779223873118_1105600936.last_row.internal=1
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779223873118_1105600936.name=JsonDataSource
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779223873118_1105600936.table_columns_size=26
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779223873118_1105600936.table_contain_header=true
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779223873118_1105600936.table_content_0_0=Test 1\: url
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779223873118_1105600936.table_content_0_1=weight
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779223873118_1105600936.table_content_0_2=kilogramos
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779223873118_1105600936.table_content_0_3=idTransaccion
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779223873118_1105600936.table_content_0_4=fechaActual
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779223873118_1105600936.table_content_0_5=nombrePokemon
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779223873118_1105600936.table_rows_size=100
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779223873118_1105600936.type=Table
+.datasources/ds-module.wk\:///PokeApi/Call_PokeApi.tst\#0000000000/ds_-1249774591_1779223873118_1105600936.use_all_rows=true
+project.path=/PokeApi

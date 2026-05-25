@@ -1,0 +1,9 @@
+---
+parasoftVersion: 2026.1.0
+productVersion: 10.7.5
+schemaVersion: 03
+suite:
+  $type: TestSuite
+  name: Responder Suite
+  hasEnvironmentConfig: true
+  lastModifiedBy: igarrido
